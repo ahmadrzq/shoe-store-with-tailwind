@@ -4,9 +4,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Satoshi", "cursive"], 
-      }
+        sans: ["Poppins", "sans-serif"],
+      },
     },
   },
   plugins: [],
-}
+};
